@@ -5,7 +5,7 @@ Welcome to my little corner on GitHub! I'm Sorin, a passionate Software Develope
 I'm on a journey to explore the vast world of Modern Computer Technology, constantly learning and growing. Whether it's crafting elegant code or experimenting with new ideas, I love the process of turning imagination into reality.
 
 ## 💻 What I'm Up To
-Currently, I'm immersed in React JS, where I'm discovering the world of Modren Software Development. Feel free to check out the repositories and let me know your thoughts!
+Currently, I'm immersed in React JS, Flutter where I'm discovering the world of Modren Software Development and Building my own Idea for mobile phones. Feel free to check out the repositories and let me know your thoughts!
 
 ## 🌱 Always Learning
 I believe in the power of continuous learning. My repositories reflect my evolution as a developer and a creative thinker. If you have any feedback, suggestions, or just want to chat about Computer Science, I'm all ears!
